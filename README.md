@@ -38,7 +38,7 @@ OR
    `solana config set --url devnet` ⚙️
     This command will set our config file to connect to devnet, where we will deploy.
 5. Get devnet tokens 💰
-    `solana airdrop 1` 💸
+    `solana airdrop 1` 💸, 
     `solana balance` 💰
 6. Build and Deploy the Contract 🚀
     `solana program deploy target/deploy/avn_nft.so` 🛰️
